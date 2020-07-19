@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6F1EF7C924777384005AA857 /* dayandnight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dayandnight.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F1EF7C924777384005AA857 /* Color Switch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Color Switch.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F1EF7CC24777384005AA857 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6F1EF7CD24777384005AA857 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6F1EF7CF24777384005AA857 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		6F1EF7CA24777384005AA857 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F1EF7C924777384005AA857 /* dayandnight.app */,
+				6F1EF7C924777384005AA857 /* Color Switch.app */,
 				6F1EF7E424777385005AA857 /* dayandnightTests.xctest */,
 				6F1EF7EF24777385005AA857 /* dayandnightUITests.xctest */,
 			);
@@ -154,7 +154,7 @@
 			);
 			name = dayandnight;
 			productName = dayandnight;
-			productReference = 6F1EF7C924777384005AA857 /* dayandnight.app */;
+			productReference = 6F1EF7C924777384005AA857 /* Color Switch.app */;
 			productType = "com.apple.product-type.application";
 		};
 		6F1EF7E324777385005AA857 /* dayandnightTests */ = {
@@ -446,7 +446,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = komal.dayandnight;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Color Switch";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -462,7 +462,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = komal.dayandnight;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Color Switch";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
